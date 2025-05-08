@@ -11,6 +11,7 @@
 - 📫 How to reach me:
 - [Email me](mailto:alexanderakilov@protonmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/alexanderakilov)
+- [Website](https://alexanderakilov.carrd.co/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m an INTP-T, so I love diving deep into theoretical concepts and finding creative solutions to complex problems!
 
