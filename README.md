@@ -7,7 +7,7 @@
    1.  A terminal utility for WSL, macOS, and Linux written in Python.
    2.  A GUI version for macOS written in Swift.
    3.  A Docker-Compose version for self-hosting.
--  I’m looking to collaborate on future projects and ideas.
+-  I’m always looking to collaborate on future projects and ideas.
 - 📫 How to reach me:
 - [Email me](mailto:alexanderakilov@protonmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/alexanderakilov)
