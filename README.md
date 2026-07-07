@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexanderAkilovTech
-- 👀 I’m extremely interested and passionate in learning about all different types of technology (old and new), self-hosting my own infrastructure with open-source software, and learning new programming languages and tools. 
+- 👀 I’m extremely interested and passionate in learning about all different types of technology (old and new), self-hosting my own infrastructure with open-source software, and learning about programming languages and tools. 
      I’m passionate about improving IT infrastructure, virtualized systems, networking, and exploring the latest trends in cybersecurity. 
      I also enjoy working on my homelab, self-hosted AI, and experimenting with various tech setups. Outside of tech, I like reading about science, history, etc.
 - 🎓 I hold an Associate's degree in Cybersecurity - Digital Forensics and a Bachelor's degree in IT (Engineering Technology) with a focus on virtualized systems and networking fundamentals.
